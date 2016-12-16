@@ -1,0 +1,188 @@
+*{
+	margin:0;
+	font-family: "verdana";
+}
+
+.blue{
+	color:blue;
+}
+
+.red{
+	color:red;
+}
+
+h1 {
+	display: inline-block;
+	vertical-align: bottom;
+	height: 65px;
+}
+
+h3{
+	background-color: blue;
+	color: white;
+	font-size: 30px;
+	margin: -20px 0 0 0;
+	vertical-align: bottom;
+	padding: 15px;
+}
+
+div.left_nav {
+	display: inline-block;
+	width: 25%;
+	padding-top: 10px;
+	font-size: 10px;
+	margin-left: 3px;
+}
+
+div.left_nav hr{
+	margin: 15px 0 15px 0;
+}
+
+div.left_nav p{
+	margin-top: 10px;
+	font-size: 8px;
+}
+
+div.left_nav input{
+	width: 100%;
+	border-radius: 5px;
+}
+
+div.left_nav input.watch{
+	margin-top: 15px;
+	color: white;
+	background-color: blue;
+}
+
+div.left_nav input.resources{
+	color:white;
+	background-color: orange;
+}
+
+div.lower_nav{
+	text-align: center;
+	position: relative;
+}
+
+div.left_nav span.reinvent{
+	color:white;
+	position: absolute;
+	bottom: 70%;
+	display: block;
+	text-align: center;
+	font-size: 12px;
+}
+
+img.learn{
+	display: block;
+	position:absolute;
+	bottom: 20%;
+	left: 25%;
+	text-align: center;
+}
+
+div.left_nav input.learn{
+	display: block;
+	color:white;
+	font-weight: bold;
+	position:absolute;
+	bottom: 5%;
+	left: 10%;
+	width: 80%;
+	text-align: center;
+	background-color:turquoise;
+}
+
+.content_header {
+	position: relative;
+	height: 50px;
+}
+
+div.right_content {
+	display:inline-block;
+	vertical-align: top;
+	width: 70%;
+}
+
+div.left_header {
+	display: inline-block;
+	margin-top: 5px;
+	text-align: left;
+	vertical-align: top;
+}
+
+div.left_header {
+
+}
+
+div.right_header {
+	display: inline-block;
+	margin-top: 5px;
+	text-align: right;
+	vertical-align: middle;
+	position: absolute;
+	right: 0;
+}
+
+div.right_header img{
+	display:inline-block;
+	margin-bottom:4px;
+}
+
+div.contact {
+	display: inline-block;
+}
+
+span.tiny {
+	display:block;
+	font-size: 8px;
+}
+
+span.phone {
+	font-size: 16px;
+	color:aqua;
+	font-weight:bold;
+}
+
+.aqua{
+	color:aqua;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.contents .blue{
+	font-weight: bolder;
+}
+
+div.imgbox{
+	width: 100%;
+	text-align: center;
+	margin: 10px 0 10px 0;
+}
+
+.three{
+	border: 3px solid blue;
+	margin: 10px;
+}
+
+li{
+	font-size:10px;
+}
+.three img{
+	display: inline-block;
+	margin: 5px;
+}
+
+.three div{
+	margin: 5px 5px 5px 0;
+	display: inline-block;
+	vertical-align: top;
+	width: 60%;
+}
+
+.three div p{
+	font-size: 10px;
+	margin: 5px 0 5px 0;
+}
